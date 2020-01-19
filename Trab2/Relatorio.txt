@@ -1,0 +1,101 @@
+**************************************************
+				*** Rodada: 1ª ***
+**************************************************
+
+JOGO (CASA X VISITANTE) : america X cruzeiro 
+DATA: 1/1/1 	Hora: 1:1
+PUBLICO: 123 	RENDA (R$): 123.00 
+RESULTADO (CASA X VISITANTE): 1 X 2 
+
+
+JOGO (CASA X VISITANTE) : atletico X s�o paulo 
+DATA: 2/2/2 	Hora: 2:2
+PUBLICO: 234 	RENDA (R$): 234.00 
+RESULTADO (CASA X VISITANTE): 2 X 1 
+
+
+NUMERO TOTAL DE JOGOS: 2 
+MEDIA DE GOLS POR JOGO: 3.00 
+
+
+**************************************************
+				*** Rodada: 2ª ***
+**************************************************
+
+JOGO (CASA X VISITANTE) : Flamengo X Vasco 
+DATA: 3/3/3 	Hora: 3:3
+PUBLICO: 345 	RENDA (R$): 345.00 
+RESULTADO (CASA X VISITANTE): 5 X 0 
+
+
+JOGO (CASA X VISITANTE) : tes X te 
+DATA: 27/04/99 	Hora: 12:12
+PUBLICO: 10 	RENDA (R$): 2.00 
+RESULTADO (CASA X VISITANTE): 1 X 4 
+
+
+NUMERO TOTAL DE JOGOS: 2 
+MEDIA DE GOLS POR JOGO: 5.00 
+
+
+**************************************************
+				*** Rodada: 3ª ***
+**************************************************
+
+JOGO (CASA X VISITANTE) : Bota Fogo X Goias 
+DATA: 4/4/4 	Hora: 4:4
+PUBLICO: 456 	RENDA (R$): 456.00 
+RESULTADO (CASA X VISITANTE): 1 X 3 
+
+
+JOGO (CASA X VISITANTE) : VilaNova X Bahia 
+DATA: 2 	Hora: 5:5
+PUBLICO: 567 	RENDA (R$): 567.00 
+RESULTADO (CASA X VISITANTE): 2 X 2 
+
+
+JOGO (CASA X VISITANTE) : Unai X Brasiliense 
+DATA: 7/7/7 	Hora: 7:7
+PUBLICO: 7899 	RENDA (R$): 7899.00 
+RESULTADO (CASA X VISITANTE): 5 X 2 
+
+
+NUMERO TOTAL DE JOGOS: 3 
+MEDIA DE GOLS POR JOGO: 5.00 
+
+
+**************************************************
+				*** Rodada: 4ª ***
+**************************************************
+
+JOGO (CASA X VISITANTE) : Corintias X Sport 
+DATA: 6/6/6 	Hora: 6:6
+PUBLICO: 678 	RENDA (R$): 678.00 
+RESULTADO (CASA X VISITANTE): 1 X 1 
+
+
+JOGO (CASA X VISITANTE) : Total X Liberdade 
+DATA: 8/8/8 	Hora: 8:8
+PUBLICO: 890 	RENDA (R$): 890.00 
+RESULTADO (CASA X VISITANTE): 666 X 1 
+
+
+NUMERO TOTAL DE JOGOS: 2 
+MEDIA DE GOLS POR JOGO: 334.50 
+
+
+**************************************************
+		*** Dados gerais do campeonato***
+**************************************************
+
+Media de gols por jogo: 77.78
+Media de publico por jogo: 1244.67
+Media de renda por jogo: 1243.78
+Numero de vitorias do time da casa: 4
+Numero de vitorias do time visitante: 3
+Numero de empates: 2
+Jogo com maior renda: 
+	Unai (5) X Brasiliense (2), Dia 7/7/7 , 3ª Rodada,
+	Publico 7899, Renda R$ 7899.00
+
+**************************************************
